@@ -1,3 +1,4 @@
+<?php
 /*
 * This function takes a string and counts how many times each word is repeated.
 * Example use:
